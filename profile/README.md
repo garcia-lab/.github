@@ -10,6 +10,8 @@
     <a href="https://github.com">GitHub</a>
     ·
     <a href="https://github.com/colossus9">@colossus9</a>
+    ·
+    <a href="https://www.linkedin.com/in/jrgarcia786/">LinkedIn</a>
   </p>
 </p>
 
