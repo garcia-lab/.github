@@ -5,7 +5,7 @@
 
   <h3 align="center">Garcia Lab</h3>
   <p align="center">
-    A place to practice, experiment, learn, and share. Feel free to explore, and see our [community health files](https://github.com/garcia-lab/.github/tree/main/.github) if you have any questions or would like to contribute.
+    A place to practice, experiment, learn, and share. Feel free to explore, and see our <a href="https://github.com/garcia-lab/.github/tree/main/.github"> community health files </a> if you have any questions or would like to contribute.
     <br><br>
     <a href="https://github.com">GitHub</a>
     ·
